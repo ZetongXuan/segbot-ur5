@@ -40,7 +40,7 @@
     version: melodic-devel
 - git:
     local-name: segbot-ur5
-    uri: https://github.com/keke-220/segbot-ur5.git
+    uri: https://github.com/ZetongXuan/segbot-ur5.git
     version: main
 - git:
     local-name: universal_robot
