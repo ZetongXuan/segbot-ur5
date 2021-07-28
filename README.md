@@ -56,7 +56,7 @@ output.npy
 ```
 ### Gazebo 
 since anaconda3 is unfriendly with ros, you need to unsource conda before running ROS  
-first, you need to uncomment ```export PATH="/home/Usrname/anaconda3/bin$PATH"``` at the end of ```.bashrc``` file, then source it by ```source ~/.bashrc```     
+first, you need to comment ```export PATH="/home/Usrname/anaconda3/bin$PATH"``` at the end of ```.bashrc``` file, then source it by ```source ~/.bashrc```     
 
 Launch banquet3 environment and bring up mobile manipulator
 ```
