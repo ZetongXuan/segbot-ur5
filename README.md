@@ -40,6 +40,7 @@ rosrun tamp_perception pick_n_place.py
 this repo builds on BingU SUNY AIR lab's mobile manipulator platform in gazebo. [segbot-ur5](https://github.com/keke-220/segbot-ur5)
 ## Requirments
 Make sure the segbot-ur5 is installed and set correctly
+for installation of GPT3 package in python3, use ```pip install openai```
 ## Usage
 ### GPT3 
 this part is write in python3, I run it in spyder so it's needed to source anaconda3 first  
