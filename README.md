@@ -70,5 +70,5 @@ rosrun tamp_percetpion tableware_spawner.py
 rosrun tamp_percetpion pick_n_place_2.py
 ```
 ### Models' Path
-I put all the third party's 3D models at /tamp_perception/world/models folder
+I put all the third party's 3D models at /tamp_perception/world/models folder  
 After installation, you need to modify the path used in /tamp_perception/src/tableware_spawner.py
