@@ -10,7 +10,7 @@ Create workspace and download repo:
 ```
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws
-wstool init src https://raw.githubusercontent.com/keke-220/segbot-ur5/master/rosinstall/melodic.rosinstall
+wstool init src https://raw.githubusercontent.com/ZetongXuan/segbot-ur5/master/rosinstall/melodic.rosinstall
 ```
 
 Install dependencies:
